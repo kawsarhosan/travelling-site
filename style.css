@@ -209,6 +209,8 @@ input[type=email] {
     box-sizing: border-box;
   }
   input[type=submit]{
+      color: #fff;
+      font-weight: bold;
     width: 100px;
     padding: 12px 20px;
     margin: 8px 0;
