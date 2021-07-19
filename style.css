@@ -66,7 +66,7 @@ ul li a{
 .intro-text a {
     color: #fff;
     font-size: 18px;
-    padding: 10px 14px;
+    padding: 15px 15px;
     border-radius: 10px;
     margin: 34px 0;
     text-decoration: none;
@@ -77,6 +77,7 @@ span{
     background-image: url(images/h2-underline.png);
     background-repeat: no-repeat;
     margin-top: 30px;
+    color: #F1A501;
 }
 .box{
     width: 50%;
@@ -179,6 +180,43 @@ span{
     width: 130px;
     margin: 0 20px;
 }
+/* subscriber section */
+.subscriber-section{
+    text-align: center;
+    background-color: #DFD7F9;
+    padding: 60px 111px;
+}
+
+.subscriber-section h2{
+    font-size: 33px;
+    color: #5E6282;
+    padding: 20px;
+    
+
+}
+.subs-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input[type=email] {
+    width: 350px;
+    padding: 12px 20px;
+    margin: 8px 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit]{
+    width: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: #F1A501;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
 
 /* footer section */
 
