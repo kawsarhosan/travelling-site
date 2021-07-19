@@ -108,6 +108,7 @@ span{
     font-weight: 700;
     color: #14183E;
     line-height: 80px;
+    
 }
 .categories{
     margin: 60px 0;
@@ -122,7 +123,9 @@ span{
     width: 20%;
     box-shadow: 1px 5px 20px rgb(35 40 65 / 13%);
 }
-
+.category h1{
+    padding: 15px 0;
+}
 /* Destinations section */
 .destinations{
    display: grid;
